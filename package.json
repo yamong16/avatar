@@ -1,8 +1,8 @@
 {
-  "name": "com.yamong.avatar-optimizer",
+  "name": "com.yamong.avatar-optimizer2",
   "version": "1.0.0",
-  "displayName": "Avatar Optimizer",
-  "description": "A tool for optimizing VRChat avatars in Unity.",
+  "displayName": "Avatar Optimizer v2",
+  "description": "A tool for optimizing VRChat avatars in Unity (second version).",
   "unity": "2022.3",
   "author": {
     "name": "yamong",
