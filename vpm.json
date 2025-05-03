@@ -1,9 +1,8 @@
-{
-  "name": "com.yourname.avatar-optimizer",
-  "id": "com.yourname.avatar-optimizer",
+  "name": "com.yamong.avatar-optimizer",
+  "id": "com.yamong.avatar-optimizer",
   "url": "https://github.com/yamong16/avatar.git",
   "packages": {
-    "com.yourname.avatar-optimizer": {
+    "com.yamong.avatar-optimizer": {
       "versions": {
         "1.0.0": {
           "url": "https://github.com/yamong16/avatar.git",
