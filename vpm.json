@@ -1,9 +1,9 @@
 {
   "registries": [
     {
-      "name": "yamong.avatar-optimizer",
+      "name": "yamong.avatar-optimizer2",
       "packages": {
-        "com.yamong.avatar-optimizer": {
+        "com.yamong.avatar-optimizer2": {
           "versions": {
             "1.0.0": {
               "url": "https://github.com/yamong16/avatar.git",
